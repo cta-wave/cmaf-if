@@ -1,5 +1,5 @@
 # cmaf-if
-Welcome to the CTA WAVE CMAF-IF wiki.
+This group is hosted by CTA WAVE.  The mission of the CMAF Industry Forum (CMAF-IF) is to facilitate wide interoperability in the market of CMAF based solutions by using common set of Content and Device Playback specifications, as well as test conditions and material.  And to further promote CTA WAVE and recruit companies involved in the CMAF ecosystems to join WAVE and actively participate in the development of common market solutions.
 
 The CMAF specification is maintained and published by MPEG (formally, ISO/IEC JTC1/SC 29/WG 11 – Coding of moving pictures and audio). The MPEG-CMAF specification defines media profiles that are in scope for the mission of MPEG, including e.g. AVC and MPEG-H.
 
